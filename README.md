@@ -2,15 +2,14 @@
 <h3 align="center">Y soy un entusiasta de la programación</h3>
 
 <img src="https://res.cloudinary.com/dbdpf4vym/image/upload/v1699311942/109806508_109001264130568_5828383644380059407_n_xhllds.jpg" alt="Texto alternativo" width="60%"/>
+<hr/>
 
-<h5 align="center>
+<h5 align="center>Estos son mis proyectos destacados 🎖</h5>
   
-Estos son mis proyectos destacados 🎖
-  
-Proyecto Pokémon Período: 05/2023 - 07/2023 Descripción: Desarrollo de una página web interactiva basada en el famoso anime Pokémon. Implementación de funcionalidades como paginado, exploración de personajes, creación de personajes y páginas de detalles de personajes. Tecnologías: JavaScript, React, Redux, Express, PostgreSQL, CSS. Período: 08/2023 - 09/2023
+<h5 align="center>Proyecto Pokémon Período: 05/2023 - 07/2023 Descripción: Desarrollo de una página web interactiva basada en el famoso anime Pokémon. Implementación de funcionalidades como paginado, exploración de personajes, creación de personajes y páginas de detalles de personajes. Tecnologías: JavaScript, React, Redux, Express, PostgreSQL, CSS. Período: 08/2023 - 09/2023</h5>
 
-Proyecto "ProjUnity" Período: 09/2023 - 10/2023 Descripción: Desarrollo de una plataforma de trabajo colaborativo que incluye autenticación, opciones de suscripción y pago, sistema de retroalimentación y calificación para proyectos, herramientas de gestión de tareas y documentación. Contribución clave como Desarrollador Frontend en el proyecto. Tecnologías: JavaScript, React, Redux, Next.js, Express, Node, MongoDB, PostgreSQL, Sequelize, CSS, ChakraUI, HTML. Enlace al Proyecto
-</h5>
+<h5 align="center>Proyecto "ProjUnity" Período: 09/2023 - 10/2023 Descripción: Desarrollo de una plataforma de trabajo colaborativo que incluye autenticación, opciones de suscripción y pago, sistema de retroalimentación y calificación para proyectos, herramientas de gestión de tareas y documentación. Contribución clave como Desarrollador Frontend en el proyecto. Tecnologías: JavaScript, React, Redux, Next.js, Express, Node, MongoDB, PostgreSQL, Sequelize, CSS, ChakraUI, HTML.</h5>
+
 
 - 📫 Contactame **draco_alexis@hotmail.com**
 
