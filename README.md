@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Alexis Palavecino</h1>
 <h3 align="center">Y soy un entusiasta de la programación</h3>
 
-<img src="https://res.cloudinary.com/dbdpf4vym/image/upload/v1699311942/109806508_109001264130568_5828383644380059407_n_xhllds.jpg" alt="Texto alternativo" width="60%" align="right"/>
+<img src="https://res.cloudinary.com/dbdpf4vym/image/upload/v1699311942/109806508_109001264130568_5828383644380059407_n_xhllds.jpg" alt="Texto alternativo" width="60%"/>
 
 <h5 align="center>
   
